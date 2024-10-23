@@ -1,3 +1,3 @@
 ﻿# hello there
-A simple Telegram bot that shows my vishlist 
+A simple Telegram bot that shows my wishlist 
  
